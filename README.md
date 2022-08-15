@@ -55,3 +55,4 @@ const rawConfig = `<script type="sample/html" filename="index.html">
 # Known Issues
 
 - [ ] Playground TypeScript worker not loading during development
+- [ ] [Client only](https://github.com/withastro/astro/issues/2526) directive not working
